@@ -64,9 +64,11 @@ spring:
 ## Cloner le projet
 
 git clone https://github.com/USERNAME/taxe-voirie-panneau-service.git
+
 cd taxe-voirie-panneau-service
 
 ## Lancer avec Maven
 
 mvn clean install
+
 mvn spring-boot:run
