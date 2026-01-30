@@ -1,0 +1,16 @@
+spring:
+  application:
+    name: panneau-service
+
+  r2dbc:
+    url: r2dbc:postgresql://localhost:5432/Panneau_db
+    username: postgres
+    password: bj151197
+
+
+  spring:
+  cloud:
+    config:
+      enabled: false
+server:
+  port: 9090
