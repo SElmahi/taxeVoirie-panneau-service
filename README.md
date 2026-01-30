@@ -63,7 +63,7 @@ spring:
 
 ## Cloner le projet
 
-git clone https://github.com/USERNAME/taxe-voirie-panneau-service.git
+git clone https://github.com/SElmahi/taxeVoirie-panneau-service.git
 
 cd taxe-voirie-panneau-service
 
